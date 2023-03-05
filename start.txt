@@ -1,1 +1,8 @@
 Test Git Quick Start demo
+New text
+New text 2
+
+
+New text 4
+New text 5
+New text 6
